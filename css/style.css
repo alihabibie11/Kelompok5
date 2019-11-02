@@ -423,7 +423,7 @@ li > a:only-child:after {
 
 .layer {
     min-height: 50em;
-    background: rgba(0, 0, 0, 0.52);
+    background: g1(0, 0, 0, 0.52);
 }
 
 .banner-info-w3layouts {
@@ -870,7 +870,7 @@ span.title {
 }
 
 .stats {
-    background: url(../images/banner3.jpg) no-repeat 0px 0px;
+    background: url(../images/g1.jpeg) no-repeat 0px 0px;
     background-size: cover;
     position: relative;
 }
@@ -1095,7 +1095,7 @@ hr {
 
 .layer.footer-1 {
     min-height: 28em;
-    background: rgba(0, 0, 0, 0.82);
+    background: image/g1.jpg(0, 0, 0, 0.82);
 }
 
 .footer-top-inner-w3ls {
